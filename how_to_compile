@@ -1,0 +1,4 @@
+mpic++ matrix_mult.cpp
+
+Running: 
+mpirun -n <no_of_processes> a.out
